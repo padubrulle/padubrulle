@@ -56,5 +56,5 @@ Project stack:
 
 ## My github stats
 
-![padubrulle's Stats](https://github-readme-stats.vercel.app/api?username=padubrulle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![padubrulle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padubrulle&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![padubrulle's Stats](https://github-readme-stats.vercel.app/api?username=padubrulle&theme=outrun&show_icons=true&hide_border=true&count_private=false)
+![padubrulle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padubrulle&theme=outrun&show_icons=true&hide_border=true&layout=compact)
