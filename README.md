@@ -46,6 +46,8 @@ Project stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)       
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)        
+![Docker](https://img.shields.io/badge/Docker-145ede.svg?logo=docker&logoColor=white) 
+
 
 ### 👀 You can also find me on : 
 <a href="https://leetcode.com/u/peha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
