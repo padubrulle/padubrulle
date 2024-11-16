@@ -53,3 +53,8 @@ Project stack:
 <a href="https://leetcode.com/u/peha/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="https://www.codingame.com/profile/3d96b143ceb5c8824bd8c1ac45f0c8623533652"><img alt="Codingame" src="https://img.shields.io/badge/Codingame-000000?logo=CodinGame&logoColor=#d16c06"/></a>
 <a href="https://www.codingame.com/profile/3d96b143ceb5c8824bd8c1ac45f0c8623533652"><img alt="LeekWars" src="https://img.shields.io/badge/Leek-Wars-333?labelColor=5fad1b&style=plastic"/></a>
+
+## My github stats
+
+![padubrulle's Stats](https://github-readme-stats.vercel.app/api?username=padubrulle&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![padubrulle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padubrulle&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
