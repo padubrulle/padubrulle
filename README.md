@@ -1,25 +1,44 @@
 ## Hi there 👋
 
-I'm Pierre-Alain, a fullstack developer with strong interest in ops.
+I'm Pierre-Alain, a Quality Engineer focused on automation, quality strategy and developer experience.
 
-At the moment, I'm working as a Quality Engineer for a huge retailer. I automate system tests mixing api request and simulating user actions directly on front.
+I work at the intersection of software quality, automation and engineering practices. My goal is simple: help teams deliver faster with confidence.
 
-### BUT
+I worked as a Quality Engineer for large retail companies where I design and implement automated test strategies across multiple layers of the system. This includes API testing, end-to-end testing, and simulating real user interactions on the frontend. Recently I was more focused on automation on backend topics including kafka streams (did you get the joke?).
 
-I'm working with really inspiring people and the current context of my mission as QE made me want to learn back web development. 
-I'm really interested in all things connected to the web ecosystem like SRE, monitoring, logging.
+What drives me
 
-For now, I'm focused on learning new stuff and review some basics learnt long ago!
+For me, quality is not about testing more.
+It's about building systems that make defects harder to introduce.
 
-So if you're looking for a new enjoyed team mate to work with, come and we can discuss about the potential of me becoming a part of your team ! 
+That’s why I’m deeply interested in topics such as:
 
-With my strong background in IT industry, my ability to love to learn new things, I will be a nice choice to be part of your projects!
+Test automation architecture
 
-My objectives as a developer are : 
-* Clean coding
-* Clean Architecture
-* Mastering what I'm doing (e.g. not using code that I don't understand)
-* Learning and teaching new things or approaches
+CI/CD integration
+
+Observability (monitoring, logging, tracing)
+
+Developer tooling and quality feedback loops
+
+SRE practices applied to software quality
+
+My engineering mindset
+
+Even though my role is focused on quality, I keep a strong engineering mindset.
+Understanding how systems are built is the best way to test them effectively.
+
+My principles:
+
+Clean and maintainable automation
+
+Clear testing strategy over test quantity
+
+Deep understanding of the systems under test
+
+Continuous learning and knowledge sharing
+
+If you're building products and care about engineering quality, reliability and sustainable delivery, we'll probably have interesting things to talk about.
 
 <h3 align="center">How to reach me:</h3>
   <div align="center">
@@ -29,7 +48,7 @@ My objectives as a developer are :
 
 ### Current work
 <p>
-Creation of an ecommerce web application.
+Link between automated tests and XRAY. The goal is to transform manual tests with step in XRAY in an automated test. When a test is executed,
 
 Project stack: 
 
@@ -37,13 +56,10 @@ Project stack:
 </p>
 
 ### 🛠️ Tech stack
+![Playwright](https://img.shields.io/badge/playwright)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-e83424.svg?logo=typeorm&logoColor=e83424&color=333)     
-![ReactJS](https://img.shields.io/badge/-ReactJS-35495E?logo=react)
-![VueJS](https://img.shields.io/badge/-Vue%20js-35495E?logo=vuedotjs&logoColor=4FC08D)     
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)       
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)        
 ![Docker](https://img.shields.io/badge/Docker-145ede.svg?logo=docker&logoColor=white) 
