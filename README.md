@@ -6,7 +6,7 @@ I work at the intersection of software quality, automation and engineering pract
 
 I worked as a Quality Engineer for large retail companies where I design and implement automated test strategies across multiple layers of the system. This includes API testing, end-to-end testing, and simulating real user interactions on the frontend. Recently I was more focused on automation on backend topics including kafka streams (did you get the joke?).
 
-What drives me
+### What drives me
 
 For me, quality is not about testing more.
 It's about building systems that make defects harder to introduce.
@@ -23,12 +23,12 @@ Developer tooling and quality feedback loops
 
 SRE practices applied to software quality
 
-My engineering mindset
+### My engineering mindset
 
 Even though my role is focused on quality, I keep a strong engineering mindset.
 Understanding how systems are built is the best way to test them effectively.
 
-My principles:
+### My principles:
 
 Clean and maintainable automation
 
