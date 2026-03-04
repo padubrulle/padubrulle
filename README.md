@@ -48,7 +48,7 @@ If you're building products and care about engineering quality, reliability and 
 
 ### Current work
 <p>
-Link between automated tests and XRAY. The goal is to transform manual tests with step in XRAY in an automated test. When a test is executed,
+Link between automated tests and XRAY. The goal is to transform manual tests with step in XRAY in an automated test. When a test is executed, the result is sent to a XRAY issue redacted as generic test with test step. Each step are set as validated like it is done as manual testing.
 
 Project stack: 
 
@@ -56,7 +56,9 @@ Project stack:
 </p>
 
 ### 🛠️ Tech stack
-![Playwright](https://img.shields.io/badge/playwright)
+![Playwright](https://img.shields.io/badge/Play-Wright-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjRkZGRkZGIiBzdHlsZT0ib3BhY2l0eToxO2ZpbHRlcjpkcm9wLXNoYWRvdygwIDhweCAxNnB4IHJnYmEoMCwwLDAsMC4zKSk7Ij48cGF0aCAgZD0iTTIzLjk5NiA3LjQ2MmMtLjA1Ni44MzctLjI1NyAyLjEzNS0uNzE2IDMuODVjLS45OTUgMy43MTUtNC4yNyAxMC44NzQtMTAuNDIgOS4yMjdjLTYuMTUtMS42NS01LjQwNy05LjQ4Ny00LjQxMi0xMy4yMDFjLjQ2LTEuNzE2LjkzNC0yLjk0IDEuMzA1LTMuNjk0Yy40Mi0uODUzLjg0Ni0uMjg5IDEuODE1LjUyM2MuNjg0LjU3MyAyLjQxIDEuNzkxIDUuMDExIDIuNDg4czQuNzA2LjUwNiA1LjU4My4zNTJjMS4yNDUtLjIxOSAxLjg5Ny0uNDk0IDEuODM0LjQ1NW0tOS44MDcgMy44NjNzLS4xMjctMS44MTktMS43NzMtMi4yODZjLTEuNjQ0LS40NjctMi42MTMgMS4wNC0yLjYxMyAxLjA0Wm00LjA1OCA0LjUzOWwtNy43NjktMi4xNzJzLjQ0NiAyLjMwNiAzLjMzOCAzLjE1M2MyLjg2Mi44MzYgNC40My0uOTggNC40My0uOTgxWm0yLjcwMS0yLjUxcy0uMTMtMS44MTgtMS43NzMtMi4yODZjLTEuNjQ0LS40NjktMi42MTIgMS4wMzgtMi42MTIgMS4wMzhaTTguNTcgMTguMjNjLTQuNzQ5IDEuMjc5LTcuMjYxLTQuMjI0LTguMDIxLTcuMDhDLjE5NyA5LjgzMS4wNDQgOC44MzIuMDAzIDguMTg4Yy0uMDQ3LS43My40NTUtLjUyIDEuNDE1LS4zNTRjLjY3Ny4xMTggMi4zLjI2MSA0LjMwOC0uMjhhMTEuMyAxMS4zIDAgMCAwIDIuNDEtLjk1NnEtLjA4Ny4yOTUtLjE3LjYxYy0uNDMzIDEuNjE4LS44MjcgNC4wNTUtLjYzMiA2LjQyNmMtMS45NzYuNzMyLTIuMjY3IDIuNDIzLTIuMjY3IDIuNDIzbDIuNTI0LS43MTVjLjIyNyAxLjAwMi42IDEuOTg3IDEuMTUgMi44Mzh6bS00LjE4OC02LjI5OGMxLjI2NS0uMzMzIDEuMzYzLTEuNjMxIDEuMzYzLTEuNjMxbC0zLjM3NC44ODhzLjc0NSAxLjA3NiAyLjAxLjc0M1oiLz48L3N2Zz4=)
+![GithubActions](https://img.shields.io/badge/Github-Actions-blue.svg?logo=githubactions&logoColor=white)
+![Github](https://img.shields.io/badge/Github-Repo-blue?logo=github)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-e83424.svg?logo=typeorm&logoColor=e83424&color=333)     
